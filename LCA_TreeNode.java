@@ -1,3 +1,5 @@
+import javax.swing.tree.TreeNode;
+
 //Lowest common ancestar of a treenode
 
 /**
